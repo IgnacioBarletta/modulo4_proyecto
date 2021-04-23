@@ -1,7 +1,7 @@
-
+// Requiere módulo "autos"
 const autos = require("./autos")
 
-//Declaro concesionaria
+// Declaro concesionaria
 let concesionaria = {
    autos: autos,
    
